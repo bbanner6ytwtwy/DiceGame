@@ -57,3 +57,12 @@ footer {
   background-color: red;
   color: #EEEEEE;
 }
+@media(max-width:1000px){
+  h1{
+    font-size: 4rem;
+  }
+  img{
+    width: 70%;
+  }
+  
+}
